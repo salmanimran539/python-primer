@@ -11,3 +11,5 @@ class Vehicle:
 # Create object
 vehicle1 = Vehicle("Toyota", "Corolla")
 vehicle1.display_info()
+
+# add comment
